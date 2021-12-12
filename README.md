@@ -1,3 +1,3 @@
-Import sonaro.sql to phpMyAdmin DB./n
-Start your local web server./n
+Import sonaro.sql to phpMyAdmin DB.  
+Start your local web server.  
 Go to http://localhost/sonaro/.
